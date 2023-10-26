@@ -1,2 +1,2 @@
 # portfolio
-some projects
+some projects for fun
